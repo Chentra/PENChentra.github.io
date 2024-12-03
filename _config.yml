@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chentra PEN"
-description              : &description "personal description"
+description              : &description "Lecturer of Department Applied Mathematics and Statistis and Ph.D. Student in Data Science, Institute of Technology of Cambodia.personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -28,7 +28,7 @@ author:
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pen.chentra@itc.edu.kh" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
